@@ -1,2 +1,2 @@
 # lab1
-First in person lab
+This is my first in person lab, and repository turotial.
